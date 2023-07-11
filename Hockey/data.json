@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "Alex Ovechkin",
+		"Pic":"Alex_Ovechkin",
+		"Des":"My only coworker who follows hockey loves Alex Ovechkin. In fact, he once claimed that Ovechkin was “the world’s greatest human being.” I think he was kidding. But “Ovie” has proven himself a great hockey player. After making his National Hockey League (NHL) debut in 2005 with the Washington Capitals, Ovechkin frequently led the league in scoring, winning the Maurice Richard Trophy, for most goals scored, multiple times (2008–09, 2013–16, 2018–19, 2020). He’s also a three-time recipient of the Hart Memorial Trophy (2008–09, 2013), as the most valuable player in the NHL. He also (finally) won the Stanley Cup with the Capitals in 2018. All that and he has a colorful personality, entertaining fans with amusing quotes (“Russian machine never breaks”) and stunts (wearing a fisherman’s hat during a skill competition at the 2009 All-Star break). Oh, and the coworker? He’s my boss.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Jacques Plante",
+		"Pic":"Jacques_Plante",
+		"Des":"Jacques Plante changed the face of hockey. Literally. The Montreal Canadien goalie is credited with popularizing face masks. In 1959 he was hit by a slap shot and needed 21 facial stitches. As the team’s only goalie, he had to return to the game after getting sewn up. However, he refused to take the ice unless he could wear a face mask. The rest is history. Equipment aside, Plante was also a stellar goaltender, helping Montreal win five consecutive Stanley Cups (1956–60). In 1962 he was named the league’s most valuable player, and he was a seven-time winner of the Vezina Trophy (1956–60, 1962, 1969), as the league’s best goalie.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Steve Yzerman",
+		"Pic":"Steve_Yzerman",
+		"Des":"Did I grow up in Michigan? Yes. Am I biased? Definitely. But this is my list, and Steve Yzerman of the Detroit Red Wings is on it. He helped transform the Dead Wings into one of the game’s most-dominating teams, restoring Detroit as Hockeytown. As the longest-serving captain in NHL history, he brought three Stanley Cups (1997–98, 2002) to a city that desperately needed something to cheer about. In addition to being an all-around player who could score and play defense, he earned respect for his class and quiet leadership.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Terry Sawchuk",
+		"Pic":"Terry_Sawchuk",
+		"Des":"Many people have called Terry Sawchuk the greatest goalie in hockey. During a 21-year career he won four Stanley Cups—three with the Red Wings (1952, 1954–55) and one with the Toronto Maple Leafs (1967)—and four Vezina Trophies (1952–53, 1955, 1965). He also registered 447 career wins, which included an unprecedented 103 shutouts, a record that stood until 2009. While he left his mark on hockey, the game also left its mark on him. He received a reported 400 stitches before finally donning a face mask (see number 9). In 1966 Time magazine had a makeup artist recreate all his facial injuries, and the resulting image isn’t pretty (google it). Long suffering from depression and alcoholism, Sawchuk died in 1970 at the age of 40 after a drunken fight with a teammate resulted in fatal internal injuries.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Jean Beliveau",
+		"Pic":"Jean_Beliveau",
+		"Des":"Considered one of the game’s best centers, Jean Béliveau won 10 (yes, 10) Stanley Cups (1956–60, 1965–66, 1968–69, 1971) with the Montreal Canadiens. He scored a then record 507 career goals and was twice named the league’s MVP (1956, 1964). In fact, Béliveau was so awesome that he didn’t even have to wait the customary three years after retiring before being voted into the Hockey Hall of Fame (1972).",
+		"IsVisible": false
+	},
+	{
+		"Title": "Maurice Richard",
+		"Pic":"Maurice_Richard",
+		"Des":"“The Rocket” rewrote the record books. The right winger was the first player to score 500 goals and the first to light up the lamp 50 times in a single season. During his 18 years with the Montreal Canadiens, Maurice Richard won eight Stanley Cups (1944, 1946, 1953, 1956–60). He was also known for his aggressive play and hot temper. An idol among French Canadians, his suspension (for fighting) in 1955 caused fans to riot in Montreal.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Mario Lemieux",
+		"Pic":"Mario_Lemieux",
+		"Des":"Despite being 6 feet 4 inches (1.9 meters) tall, Mario Lemieux displayed great speed and agility. During his 17 years as a player with the Pittsburgh Penguins, he won two Stanley Cups (1991–92) and managed to score an impressive 690 career goals despite missing a number of seasons after being diagnosed with Hodgkin lymphoma. In 1997 “The Magnificent One” retired, and two years later he helped the Penguins climb out of bankruptcy after becoming the team’s majority owner. He returned as a player for several seasons before his last retirement in 2006. Three years later Pittsburgh won another Stanley Cup, making Lemieux the first person to win the cup as both a player and an owner.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Bobby Orr",
+		"Pic":"Bobby_Orr",
+		"Des":"Bobby Orr is widely regarded as the game’s best defenseman—evidenced by his record-setting eight James Norris Memorial Trophy wins (1968–75). While with the Boston Bruins, he became the first defenseman to lead the NHL in scoring (1970), and he was named the league’s MVP three times (1970–72). He also won two Stanley Cups (1970, 1972).",
+		"IsVisible": false
+	},
+	{
+		"Title": "Wayne Gretzky",
+		"Pic":"Wayne_Gretzky",
+		"Des":"With his finesse and speed, “The Great One” revolutionized the game. Wayne Gretzky shattered long-standing records, notably scoring an unprecedented 894 goals. He also earned four Stanley Cups with the Edmonton Oilers (1984–85, 1987–88) and was named the NHL’s MVP nine (!) times (1980–87, 1989). After being traded to the Los Angeles Kings in 1988, he helped popularize ice hockey in the United States, paving the way for the game’s expansion.",
+		"IsVisible": false
+	},
+	{
+		"Title": "Gordie Howe",
+		"Pic":"Gordie_Howe",
+		"Des":"That’s “Mr. Hockey” to you. Gordie Howe’s 801 career goals set a then record in the NHL, and, as a member of the Red Wings “Production Line,” he won four Stanley Cups (1950, 1952, 1954–55). In addition to being a scorer, “Mr. Elbows” was also known for his gritty play. Not that I’m condoning fisticuffs, but, unlike some players (cough, Gretzky, cough), Howe didn’t need an enforcer to fight his battles. He inspired the “Gordie Howe hat trick,” which was a goal, an assist, and a fight in one game. And Howe played until he was 100. OK, really he was 52, but that’s like 100 in hockey years.",
+		"IsVisible": false
+	}
+]
